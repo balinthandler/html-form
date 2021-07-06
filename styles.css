@@ -1,0 +1,65 @@
+body {
+  background-color: #ECEEF1;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 2rem;
+  font-size: .75rem;
+  margin-bottom: 1rem;
+}
+nav p {
+  color: #505050;
+}
+
+.sign-in {
+  width: 16px;
+  height:20px;
+  margin-right: .5rem;
+}
+
+button {
+  background: #0077C5;
+  color: #fff;
+  padding: 6px 20px;
+  margin: .5rem;
+  border: 1px solid grey;
+  border-radius: 5px;
+
+}
+
+a {
+  color: #0077C5;
+}
+
+.logo {
+  width: 120px;
+  margin: 1.5rem;
+}
+
+.logos-flex {
+  display: flex;
+  justify-content: center;
+}
+.link-logo {
+  width: 22px;
+  margin: 0 .25rem;
+}
+
+.link-logo-text {
+  height: 15px;
+  
+}
+.qb {
+  height: 22px;
+}
+.tt {
+  height: 17px;
+}
+
+section {
+  text-align: center;;
+}
